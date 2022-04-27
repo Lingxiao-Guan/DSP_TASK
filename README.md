@@ -11,3 +11,7 @@ Frequency domain distribution(DFT/FFT)
 # Task 3(Time-frequency analysis):
 visualize Time-freaquency analysis result(feature calculation)
 (matlab functions you may use: spectrogram/cwt)
+
+DATA: 
+fs=500Hz; 
+datachannel = 8；
