@@ -13,6 +13,7 @@ Frequency domain distribution(DFT/FFT)
 visualize Time-freaquency analysis result(feature calculation)
 (matlab functions you may use: spectrogram/cwt)
 
-DATA: 
+DATA:
+
 ##DATA1：8 channels-1000Hz；
 ##DATA2：1 channel-1000Hz
