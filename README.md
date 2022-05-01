@@ -15,5 +15,6 @@ visualize Time-freaquency analysis result(feature calculation)
 
 DATA:
 
-##DATA1：8 channels-1000Hz；
-##DATA2：1 channel-1000Hz
+### DATA1：8 channels-1000Hz
+
+### DATA2：1 channel-1000Hz
