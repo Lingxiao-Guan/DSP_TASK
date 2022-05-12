@@ -19,7 +19,13 @@ DATA:
 
 ### DATA2：1 channel-1000Hz
 
-# 0512
-Data3：DBS-ON-OFF DATA
+# 0512 Update
 
 Example_code_0512：example code
+
+
+Data3：DBS-ON-OFF DATA
+
+（Stimulator OFF-ON Data）
+
+（You can analyze the ON-OFF effects）
