@@ -1,7 +1,7 @@
 # DSP_TASK
 ## Task 1(Signal Display)：
 Load example signal and visualize it.
-（U can load ‘DBS-OFF-DATA1’or‘DBS-OFF-DATA2’（DATA1：8 channels-1000Hz；DATA2：1 channel-1000Hz））
+（U can load ‘DBS-OFF-DATA1’or‘DBS-OFF-DATA2’（DATA1：8 channels-500Hz；DATA2：1 channel-1000Hz））
 (matlab functions you may use: plot/subplot)
 
 ## Task 2(time domain analysis & frequency domain analysis)：
@@ -15,6 +15,6 @@ visualize Time-freaquency analysis result(feature calculation)
 
 DATA:
 
-### DATA1：8 channels-1000Hz
+### DATA1：8 channels-500Hz
 
 ### DATA2：1 channel-1000Hz
